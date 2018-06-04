@@ -153,8 +153,8 @@
     <section class="room-tabs" id="sc-rooms">
         <div class="container">
             <div class="row">
-                <div class="col-md 12">
-                    <h1>PROYECTO FINAL DE SOFTWARE 2</h1>
+                <div class="col-md 12" align="center">
+                    <h1>PROYECTO FINAL DE SOFTWARE 1</h1>
                 </div>
                 <br>
                 <div class="col-md-12">
