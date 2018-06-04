@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Hotel Empresarial</title>
+    <title>Hotel Empresarial Software 2 proyecto final</title>
     <meta name="description"
           content="Accomodation is developed for hotels, motels, guest house and accommodation planning like Vacation Rentals, Homes, Apartments & Rooms and much more.">
     <meta name="author" content="Themeinjection.com">
@@ -153,6 +153,10 @@
     <section class="room-tabs" id="sc-rooms">
         <div class="container">
             <div class="row">
+                <div class="col-md 12">
+                    <h1>PROYECTO FINAL DE SOFTWARE 2</h1>
+                </div>
+                <br>
                 <div class="col-md-12">
                     <h2>Los espacios que ofrecemos...</h2>
                 </div>
